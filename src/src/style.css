@@ -1,0 +1,20 @@
+.scrollPane{
+    -fx-min-width: 448px;
+    -fx-min-height: 774px;
+    -fx-pref-width: 448px;
+}
+
+.anchorPane{
+    -fx-min-width: 448px;
+    -fx-min-height: 774px;
+    -fx-pref-width: 448px;
+    -fx-background-image: url("background2.png");
+}
+
+.aspectLine{
+    -fx-min-width: 434px;
+    -fx-min-height: 64px;
+    -fx-pref-width: 434px;
+    -fx-pref-height: 64px;
+    -fx-spacing: 10px;
+}

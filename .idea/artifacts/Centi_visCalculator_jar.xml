@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Centi-visCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Centi_visCalculator_jar</output-path>
+    <root id="archive" name="Centi-visCalculator.jar">
+      <element id="module-output" name="Centi-visCalculator" />
+    </root>
+  </artifact>
+</component>
